@@ -3,7 +3,6 @@
 The most simples flask app in container docker.
 
 ## Get Started
---- 
 
 ###  Prerequisites
 
